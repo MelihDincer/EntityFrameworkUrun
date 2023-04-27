@@ -1,3 +1,0 @@
-Github'a yuklenecek!!
-Udemy Uygulama Geliştirerek C# - Bölüm 20
-EntityFramework DbFirst yaklaşımı kullanılmıştır.
